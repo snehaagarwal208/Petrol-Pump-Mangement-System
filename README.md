@@ -1,2 +1,37 @@
 # Petrol-Pump-Mangement-System
-This project is use to manage the details or the database of the services of petrol pump
+
+This is a simple database management system built using C++ Turbo. It allows users to manage data related to a petrol pump, including information about fuel sales, inventory, and customer records. 
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
