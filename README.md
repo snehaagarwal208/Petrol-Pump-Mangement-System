@@ -9,7 +9,6 @@ To use the Petrol Pump Database Management System, follow these steps:
 3. Compile and build the project.
 4. Run the executable file generated.
 
-
 Upon running the program, you will be presented with a menu of options to choose from. You can navigate through the menu using the arrow keys and press Enter to select an option.
 
 The main menu options include:
