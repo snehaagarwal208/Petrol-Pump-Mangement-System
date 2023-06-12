@@ -24,7 +24,6 @@ The main menu options include:
 5. *User Management:* If multiple users access the system, this option allows you to manage user accounts. You can add, edit, or delete user accounts and specify their access permissions.
 
 ## Contributing
-
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
