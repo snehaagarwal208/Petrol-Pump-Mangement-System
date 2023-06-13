@@ -3,6 +3,7 @@
 This is a simple database management system built using C++ Turbo. It allows users to manage data related to a petrol pump, including information about fuel sales, inventory, and customer records. 
 
 ## Installation
+
 To use the Petrol Pump Database Management System, follow these steps:
 1. Clone the repository: `git clone https://github.com/snehaagarwal208/Petrol-Pump-Mangement-System`
 2. Open the project in Turbo C++.
