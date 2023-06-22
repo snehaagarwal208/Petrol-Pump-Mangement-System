@@ -1,5 +1,4 @@
 # Petrol-Pump-Mangement-System
-
 This is a simple database management system built using C++ Turbo. It allows users to manage data related to a petrol pump, including information about fuel sales, inventory, and customer records. 
 
 
